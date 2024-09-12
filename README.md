@@ -1,2 +1,2 @@
 # giant_dwarf
-giant-dwarf game where each participante can be one time giant and one time dwarf
+A game where each participant can once be a dwarf and once a giant
